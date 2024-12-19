@@ -2,3 +2,5 @@ receipt_data.csv
 temp.py
 whole.ipynb
 .DS_Store
+__pycache__
+.ipynb_checkpoints
